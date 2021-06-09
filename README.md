@@ -1,4 +1,4 @@
-# Java_Course_TeaHouse
+# Java_Course_PanCakeBar
 
 # Мобильное приложение «Кондитерская»
 

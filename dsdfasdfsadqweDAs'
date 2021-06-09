@@ -1,0 +1,25 @@
+[33mcommit e8967494963d0a39f9fed0eb7487753e0e994878[m[33m ([m[1;36mHEAD -> [m[1;32mDevelop[m[33m)[m
+Author: 0Rogue0 <Altair1-3@yandex.ru>
+Date:   Tue May 25 23:52:43 2021 +0300
+
+    Revert "Front Work"
+    
+    This reverts commit c3b6367d1c8f3a568b0fefdbe769a3cce856bedd.
+
+[33mcommit c3b6367d1c8f3a568b0fefdbe769a3cce856bedd[m
+Author: 0Rogue0 <Altair1-3@yandex.ru>
+Date:   Tue May 25 23:42:45 2021 +0300
+
+    Front Work
+
+[33mcommit 83c128bda5418d6d2650ade551b90e12c75158f1[m
+Author: 0Rogue0 <Altair1-3@yandex.ru>
+Date:   Tue May 25 23:36:26 2021 +0300
+
+    NewFront
+
+[33mcommit bd8ab3b5eb43d3d022a9ef6ec8c460ccdeab2a85[m[33m ([m[1;32mmaster[m[33m)[m
+Author: 0Rogue0 <Altair1-3@yandex.ru>
+Date:   Tue May 25 18:27:32 2021 +0300
+
+    Frontend for Baker`s app
